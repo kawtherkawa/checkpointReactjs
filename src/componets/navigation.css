@@ -1,0 +1,26 @@
+.bar {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+
+}
+
+.cont {
+    background-color:black;
+}
+
+.logo {
+    color: white;
+}
+
+.logo span{
+    color: white;
+}
+
+h2 {
+    color: red
+}
+
+.bar .cont .logo:hover {
+    color: red;
+}
